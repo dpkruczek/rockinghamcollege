@@ -32,6 +32,11 @@
 		color: #ff3366; /* Bright pink */
 		text-shadow: 2px 2px 0 #33ccff; /* Light blue shadow */
 	}
+	.header img {
+		border: 5px solid #ff6699; /* Pink solid border */
+		border-radius: 15px;
+		margin-top: 20px;
+	}
 	.user-tab {
 		position: absolute;
 		top: 10px;
@@ -67,9 +72,10 @@
 
 <div class="container">
 	<div class="header">
-		<h1>Rockingham College application</h1>
+		<h1>Rockingham College application results</h1>
+		<img src="movitz.png" alt="Movitz" />
 	</div>
-	<p>Welcome to the Rockingham College application page! You have been chosen to apply for our postdoc programme! Congratulations! In order to increase your chances you need to prove yourself. Here you will find a list of tasks that will help you increase your chances:</p>
+	<p>Welcome to the Rockingham College! You have been chosen to the position of postdoc! Congratulations!</p>
 	<table class="task-table">
 		<thead>
 			<tr>
@@ -137,5 +143,4 @@
 			</tr>
 		</tbody>
 	</table>
-	<p>More tasks will be posted</p>
 </div>
