@@ -87,12 +87,53 @@
 			<tr>
 				<td>Color vision</td>
 				<td>Solve a rubic's cube</td>
-				<td>-</td>
+				<td>PASS</td>
 			</tr>
 			<tr>
 				<td>Excursion</td>
 				<td>Work together in a team</td>
-				<td>-</td>
+				<td>PASS</td>
+			</tr>
+			<tr>
+				<td>Climbing</td>
+				<td>Can you climb the academia ladder?</td>
+				<td>PASS</td>
+			</tr>
+			<tr>
+			<tr>
+				<td>Building on time</td>
+				<td>Assemble a unicorn</td>
+				<td>FAIL</td>
+			</tr>
+			<tr>
+				<td>Chug n' chuck</td>
+				<td>Chug a beer and throw into barrel</td>
+				<td>FAIL</td>
+			</tr>
+			<tr>
+				<td>Finnish education</td>
+				<td>What's the original song?</td>
+				<td>PASS</td>
+			</tr>
+			<tr>
+				<td>Pop, play, prevail</td>
+				<td>Destroy the balloons of your enemies</td>
+				<td>PASS</td>
+			</tr>
+			<tr>
+				<td>Drink right</td>
+				<td>Choose from 3 beers</td>
+				<td>PASS</td>
+			</tr>
+			<tr>
+				<td>Crazy forehead</td>
+				<td>Can you recognise the pattern?</td>
+				<td>PASS</td>
+			</tr>
+			<tr>
+				<td>Photographic memory test</td>
+				<td>Can you draw something from memory?</td>
+				<td>PASS</td>
 			</tr>
 		</tbody>
 	</table>
